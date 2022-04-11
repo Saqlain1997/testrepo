@@ -1,5 +1,7 @@
 public class Abc{
 	public static void main(String[] args){
-		Systen.out.println("Hi, Good Morning");
+		for(int i=0; i<5; i++){
+			Systen.out.println("Hi, Have a good day");
+		}
 	}
 }
